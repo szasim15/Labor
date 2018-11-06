@@ -1,2 +1,2 @@
 # Labor
-** Simon Szapacs ist a coller Typ **
+**Simon Szapacs ist a coller Typ**
